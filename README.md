@@ -9,3 +9,10 @@
 7. try with resource enhancement
 8. Factory methods to create unmodifiable collections
 9. Stream api enhancements
+  default methods
+   * takeWhile method
+   * dropWhile method
+  static methods
+   * Stream.iterate()
+   * Stream.ofNullable()
+10. <> operator
