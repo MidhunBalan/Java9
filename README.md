@@ -16,3 +16,5 @@
    * Stream.iterate()
    * Stream.ofNullable()
 10. <> operator
+11. SafeVar args Annotation
+12. 
