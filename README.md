@@ -17,4 +17,10 @@
    * Stream.ofNullable()
 10. <> operator
 11. SafeVar args Annotation
-12. 
+12. G1GC(Garbage First Garbage Collector)
+
+ Types of garbage collectors in java
+   * Serial GC 
+   * Parallel GC
+   * CMS GC
+   * G1 GC(added in 1.6 version)
