@@ -26,3 +26,12 @@
    * G1 GC(added in 1.6 version)
   
 (Note: Until 1.8v Parallel GC was the default GC. But 1.9v onwrds G1 GC became the default GC)
+
+===============================================================================================
+
+** Private methods in interface
+What is private method in interface?
+From java 9, we are allowed to keep private methods to the interface. it was not available until java8. 
+
+what is the use of private method inside an interface?
+No need to override the method inside the implemented classes. 
