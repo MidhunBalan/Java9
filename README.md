@@ -29,7 +29,7 @@
 
 ===============================================================================================
 
-***Private methods in interface
+##Private methods in interface
 
 What is private method in interface?
 From java 9, we are allowed to keep private methods to the interface. it was not available until java8. 
