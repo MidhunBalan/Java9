@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Example2 {
-    public static void main(String arg[]){
+    public static void main(String... arg){
         List<String> l1= Arrays.asList("A","B");
         List<String> l2= Arrays.asList("C","D");
         List<String> l3= Arrays.asList("E","F");
@@ -16,4 +16,5 @@ public class Example2 {
             System.out.println(ll1);
         }
     }
+
 }
