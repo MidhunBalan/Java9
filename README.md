@@ -36,3 +36,7 @@ From java 9, we are allowed to keep private methods to the interface. it was not
 
 what is the use of private method inside an interface?
 No need to override the method inside the implemented classes. 
+
+## Diamond operator enhancement
+
+ 
